@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "Flaticon";
-    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    src: url("https://rawcdn.githack.com/dubidun/Demo-2/797d9d761c54c0b3cb9ff0f515bea4655d501d23/Flaticon.svg#Flaticon") format("svg");
   }
 }
 
